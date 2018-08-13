@@ -19,7 +19,7 @@ Archimedes : How it works ?
 
 **Who Am I**
 
-Highly experienced Senior Penetration Tester & Red Team with over 9 years experience in the airlines industry.
+Highly experienced Information Security/Penetration Tester/Red Team with over 9 years experience with a demonstrated history of working in the Airlines industry.
 
 Background includes hands-on experience with :
 
